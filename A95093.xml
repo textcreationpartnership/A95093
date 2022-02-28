@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true narrative of the confession and execution of the seven prisoners at Tyburn on Wednesday the 24th. of this instant October 1683 Viz. Charles Butler, who was drawn, and hang'd for high-treason John Quarles, John Smith, Mary Phelps, Charles Dod, Hugh Jones, Edward Williams, for murther, felonies, burglaries, and divers other crimes. And also a particular account of their several facts, and where committed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95093</idno>
+            <idno type="STC">Wing T2780D</idno>
+            <idno type="STC">ESTC R230449</idno>
+            <idno type="EEBO-CITATION">99896023</idno>
+            <idno type="PROQUEST">99896023</idno>
+            <idno type="VID">153679</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95093)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153679)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2374:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true narrative of the confession and execution of the seven prisoners at Tyburn on Wednesday the 24th. of this instant October 1683 Viz. Charles Butler, who was drawn, and hang'd for high-treason John Quarles, John Smith, Mary Phelps, Charles Dod, Hugh Jones, Edward Williams, for murther, felonies, burglaries, and divers other crimes. And also a particular account of their several facts, and where committed.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by E. Mallet,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Butler, Charles, d. 1683 --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:153679:1"/>
+            <head>THE TRUE NARRATIVE OF THE CONFESSION AND EXECUTION of the ſeven Priſoners AT TYBURN On <hi>Wedneſday</hi> the 24th. of this Inſtant <hi>October.</hi> 1683.</head>
+            <list>
+               <head>Viz. <hi>Charles Butler,</hi> who was Drawn, and Hang'd for <hi>High-Treaſon</hi>
+               </head>
+               <item>
+                  <hi>John Quarles,</hi>
+               </item>
+               <item>
+                  <hi>John Smith,</hi>
+               </item>
+               <item>
+                  <hi>Mary Phelps,</hi>
+               </item>
+               <item>
+                  <hi>Charles Dod,</hi>
+               </item>
+               <item>
+                  <hi>Hugh Jones,</hi>
+               </item>
+               <item>
+                  <hi>Edward Williams,</hi>
+               </item>
+            </list>
+            <p>For Murther, Felonies, Burglaries, and divers other crimes. And alſo a particular Account of their ſeveral Facts, and where Committed.</p>
+            <p>Every Seſſions produces the reiterated Effects of abuſed Grace, and notwithſtanding his moſt ſacred Majeſties continued Cle<g ref="char:EOLhyphen"/>mency to the moſt Notorious Offenders, almoſt even to a Mira<g ref="char:EOLhyphen"/>cle yet ſuch is the obdurate Reſolutions of many wretched and miſerable Tranſgreſſors, as to continue in their Diabolical Practi<g ref="char:EOLhyphen"/>ces, till it becomes an Act of Neceſſity for the Sword of Juſtice to cut off all ſuch, as dead Branches: leſt the moſt delightful Tree of Community ſhould become wither'd and of no uſe in the Garden of this preſent world.</p>
+            <p>I will not inſiſt on the particular Crimes of many of the preſent ſuf<g ref="char:EOLhyphen"/>ferers which his Majeſties Tranſendent Charity' and Mercy hath cover<g ref="char:EOLhyphen"/>ed in times paſt; a and indeed in thoſe virtues daily Experience manifeſts him to be the true Image, He repreſents: and it may be as truly ſaid his Mercy is above all his Judgments: and at this very Inſtant time ma<g ref="char:EOLhyphen"/>ny have been reſtored to Life (in hopes of their Repentance and Amend<g ref="char:EOLhyphen"/>ment) who had forfeited all that this preſent world is ſenſible of to the
+<pb n="2" facs="tcp:153679:2"/>Juſtice of the Law, and thoſe whoſe wicked inclinations may inc<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> them to ſuch Courſes, as end in nothing but Death and Deſtruction in this World, beſides the danger they are in, by provoking God to Anger and Juſtice, and become Liable to Eternal Death in the World to come: I will mention ſuch of their Crimes only for which they now lie under a Sentence of Death, and this very day, are to pay their Lives, as a ſatis<g ref="char:EOLhyphen"/>faction to the Good Government, they have ſo often, moſt wickedly and unjuſtly abuſed, that they may be an Example of Terror to all evil doers, who by this may pray to God to ſend them his Grace, that they may be incliend to live a more honeſt and Chriſtian-like Life; and thereby avoid the Shames and Miſeries, that they bring upon themſelves, their Families, and Relations.</p>
+            <p>
+               <hi>Charles Butler,</hi> under a Judgment of <hi>High-Treaſon,</hi> for Clipping, File<g ref="char:EOLhyphen"/>ing and Counterfeiting the Current Coin of this Kingdom, was drawn upon a Sled to the place of Execution, he confeſſed that which induced him to this Courſe of Life, was a deſign to inrich himſelf ſooner then he could b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an honeſt Courſe of Life: but with an Admonition, to all people, that it was in vain, to go on in ſuch kind of unlawful ways, and that though they did <hi>proſper</hi> for ſome time they muſt expect <hi>Juſtice</hi> to ſeize them at laſt: though they might continue in it undiſcovered for ſome time, &amp; that thoſe ways might to appearance ſeem very pleaſant in the ſight of thoſe which began to undertake in that of unlawful gain, &amp; that he had employed that trouble and care, in honeſt endeavours might (he is now ſenſible) have been to him as great profit in the End.</p>
+            <p>
+               <hi>Mary Phelps,</hi> was the Wife of a Baker by Trade, who has the report of an honeſt, careful, induſtrious Man: She is under a Judgment, for the Mur<g ref="char:EOLhyphen"/>der of <hi>John-Charlton</hi> in <hi>Covent-Garden,</hi> and has lived a very ſuſpicious and wicked kind of life, in the Apprehenſion of moſt of her Neighbours: ſhe confeſſed in general, that ſhe had been a great ſinner, and acknowledged the juſtice of the Proceedings againſt her Life, and ſubmitted her ſelf to the hands of the Law.</p>
+            <p>The Innocent Man, that was inhumanly Murthered by her procurement, has left behind him a careful Mother and ſevera<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſmall Children, that received a Competent Maintenance from the honeſt induſtrious Endeavours of the Deceaſed, it being a Character, that moſt of his Neighbours give him, and no doubt will contribute to the induceing of good minded people to lend their Chriſtian Aid to the deſtreſſed Widdow and Fatherleſs Children, that are by this cruel Murther expoſed to the want of thoſe helps, which in his life time they received from his daily Labors.</p>
+            <p>
+               <hi>Charles Dod, Edward Williams,</hi> and <hi>Hugh Jones,</hi> were all three Execu<g ref="char:EOLhyphen"/>ted at <hi>Tybourn,</hi> the oldeſt of them ſcarce having ſeen 20 years, yet ſome of them have been convicted at leaſt four or five times, of Crimes much of the ſame Nature, with this which they have now ſuffered for: they ſhewed great Penitence, and confeſſed that they had followed this way of living, ever ſince that they were ſeven years old, &amp; that they had deſerved death ſeveral years ago, adviſing all young men to ſtudy honeſt ways of living,
+<pb n="3" facs="tcp:153679:2"/>and to carry themſelves Dutifully, and Obediently, to their Parents and Maſters, the want of which was a great cauſe of bringing them to this, their ſhameful End.</p>
+            <p>They confeſſed they had been inſtrumental in Debauching a great many young men, who were the children of honeſt parents that lived in good Credit in the City. And prayed if any of them were Spectators of their ſhameful end, they would thereby be Admoniſhed to forſake all their leiud Aquaintance, that are the abettors and encourgers of thoſe Vice, that brought them to be made the publick Spectacle of Juſtice: And pray<g ref="char:EOLhyphen"/>ed that they would ſubmit themſelves to the care of their honeſt Parents whom they had too long abuſed, and that they would make it their endea<g ref="char:EOLhyphen"/>vours to reſtore a juſt ſatisfaction to all ſuch perſons as they knew were injured by them, and that they would apply themſelves to God in con<g ref="char:EOLhyphen"/>tinual prayer to enable them by his grace to withſtand the wicked tem<g ref="char:EOLhyphen"/>ptations of the Devil, the vain luſts of the Fleſh, and all other allurements of this World.</p>
+            <p>
+               <hi>John Smith,</hi> was under a judgment of Death, for a Felony and Burglary, upon the Houſe of the Right Honourable the Earl of <hi>Lindſey,</hi> and ſtealing thence, Goods, Plates, and other things of a great value: ſome of the <hi>Ap<g ref="char:EOLhyphen"/>parrel</hi> of the Covnteſs of <hi>Lindſey,</hi> being found upon him he confeſſed he had been a Notorious Offender, and commended the Juſtice of the Court in the proceedings of his Tryal. He has been an old Offender, though but a young man; and it's reported the Thieves, and Pickpockets themſelves, were amazed at the impudent Methods, he took in the Management of his Viloanies: Admoniſhing all people to forbear the practice of ſuch Vilence, that were againſt the Laws of God and Man, and deſired all people that were there preſent, to pray for him, having hopes of finding mercy where he was going, though the Crimes he was guilty of, were of too deep a Dye to be waſhed away in this world with any other thing but his Blood; yet he hoped that of his Saviours, would cleanſe him from all Corruption, and thanked the Ordinary, for the great pains and ſervices he had done him ſince the time of his Condemnation.</p>
+            <p>
+               <hi>John Quarles,</hi> was under judgment of Death, for a Felony and Burglary, to the value of between threeſcore and fourſcore pounds: he confeſſed he had been an Offender for many years paſt, and that the long<g ref="char:EOLhyphen"/>er had Acted in his ungodly way of Life, the leſs he was ſenſible of the <hi>wickedneſs</hi> he acted: &amp; declared he was heartily ſorrowful for the injuries he had done to all people, and he hoped that they would (if any were there preſent) joyn with him in their prayers to God, to beſtow his mercy on him in the world to come <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> being very willing to reſign his Life which he had juſtly forfeited, and hoped that if any were preſent (that had follow<g ref="char:EOLhyphen"/>ed ſuch like Courſes that they would be warned by his ſhameful end, to forbear their wicked practices, and to ſin no more, leſt a worſe thing befall them.</p>
+            <p>He confeſſed he had Received Grace and Mercy, no leſs then four times, having had the benefit of his Clergy twice, and his Majeſties Gracious Pardon of Tranſportation, as many times; acknowledging that he might have lived plentifully well by his labours in a lawful way, being a Goldſmith by Trade:
+<pb n="4" facs="tcp:153679:3"/>But that the wicked luſts of the fleſh and the vanities of this world ſo far prevailed upon him as to ſlight and ſet light eſteem of all juſt means of honeſt living: and acknowledged he had drawn too many others into the ſame wicked practices of which ſome had payed their blood as a juſt ſatisfaction for the wrongs and injuries they had done.</p>
+            <p>
+               <hi>Mr. Ordinary,</hi> having prayed with them, and admoniſhed them of the Judgment they were ſuddenly to appear before, where no ſecrets were hid adviſed them to make a clear and a full Confeſſion of all their crimes, which they might hitherto Conceal, and that with ſuch Submiſſion, Con<g ref="char:EOLhyphen"/>feſſion, and Repentance, God might be pleaſed to ſhew forth the fullneſs of his mercy, and appear a mighty Deliverer to them, in this time of their of their great Neceſſity, and pronounced the Bleſſing, and took his leave of them, and immediately the Executioner did his Office.</p>
+            <p>Mr. <hi>Butler,</hi> being Requeſted by the <hi>Ordinary,</hi> to ſpeak what he knew concerning the Fire in the <hi>Temple,</hi> his Anſwer was, that upon the Words of a dying Man, and as he expected Mercy from the Almighty, he was ſo much a ſtranger to it, as the Infant at his Mothers Breaſt, and he himſelf loſt above threeſcore pounds.</p>
+            <p>Entered according to order,</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed by <hi>E Mallet,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
